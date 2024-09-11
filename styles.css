@@ -1,12 +1,6 @@
 .texto-menor {
     font-size: 13px;
-    color: white;
 }
-
-/* .texto-medio {
-    font-size: 32px;
-    color: #DAFF01;
-} */
 
 .verde-limao {
     color: #DAFF01;
@@ -18,4 +12,14 @@
 
 .divs-facilidades {
     width: 325px;
+}
+
+.div-novidades {
+    width: 325px;
+}
+
+@media(min-width:768px) {
+    .div-novidades {
+        width: 696px;
+    }
 }
