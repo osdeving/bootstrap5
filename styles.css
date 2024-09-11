@@ -1,0 +1,21 @@
+.texto-menor {
+    font-size: 13px;
+    color: white;
+}
+
+/* .texto-medio {
+    font-size: 32px;
+    color: #DAFF01;
+} */
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+.botao-lilas {
+    background-color: #9353FF;   
+}
+
+.divs-facilidades {
+    width: 325px;
+}
